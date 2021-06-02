@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+/* General Styles */
+
+html, body {
+    width: 99%;
+    height: 99%;
+}
+
+body {
+    background-color: hsl(233, 47%, 7%);
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    flex-direction: column;
+}
+
+.highlight {
+    color: hsl(277, 64%, 61%);
+}
+
+/* Card and Card Component Styles */
+
+.card {
+    background-color: hsl(244, 38%, 16%);
+    width: 190px;
+    display: grid;
+    grid: "img" 1fr
+          "content" max-content;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Header Image */
+.header-img, .header-color {
+    grid-area: img;
+    width: 100%;
+    height: 100%;
+}
+
+.header-color {
+    z-index: 2;
+    background-color: hsl(277deg 83% 33% / 58%);
+}
+
+/* Content and its components */
+.content {
+    grid-area: content;
+    padding: 10px;
+    font-size: 10px;
+    color: hsla(0, 0%, 100%, 0.75)
+}
+
+.content-head, .stat-head {
+    font-size: 15px;
+    color: hsla(0, 0%, 100%);
+}
+
+.stat-head {
+    margin: 4px 0;
+}
+
+.stats {
+    text-transform: uppercase;
+    font-size: 8px;
+    padding: 4px;
+}
+
+/* Attribution */
+.attribution {
+    grid-area: attr;
+}
+
+@media screen and (min-width: 1040px) {
+    .card {
+        width: 600px;
+        grid: "content img";
+        grid-template-columns: 50% 50%;
+    }
+    
+    /* .header-img, .header-color {
+        width: 270px;
+    } */
+
+    .content {
+        padding: 25px 55px 25px 30px;
+        text-align: left;
+    }
+
+    .content, .stats {
+        font-size: 8px;
+    }
+
+    .content-head {
+        font-size: 20px;
+    }
+
+    .stats {
+        display: inline-block;
+        margin: 15px 12px 0 0;
+    }
+}
