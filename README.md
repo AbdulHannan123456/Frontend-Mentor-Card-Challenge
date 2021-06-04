@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Version](./Screenshot_Mobile. jpg)
+![Mobile Version](https://github.com/AbdulHannan123456/Frontend-Mentor-Card-Challenge/blob/main/Screenshot_Mobile.png?raw=true)
 --- Mobile Version ---
 
 ![Desktop Version](https://github.com/AbdulHannan123456/Frontend-Mentor-Card-Challenge/blob/main/Screenshot_Desktop.png?raw=true)
@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AbdulHannan123456/Frontend-Mentor-Card-Challenge.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/AbdulHannan123456/Frontend-Mentor-Card-Challenge.git)
+- Live Site URL: [Glitch](https://stats-preview-card-component-solution.glitch.me/)
 
 ## My process
 
