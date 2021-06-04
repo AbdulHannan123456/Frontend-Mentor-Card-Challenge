@@ -29,7 +29,7 @@ Users should be able to:
 ![Mobile Version](./Screenshot_Mobile. jpg)
 --- Mobile Version ---
 
-![Desktop Version](./Screenshot_Desktop.jpg)
+![Desktop Version](https://github.com/AbdulHannan123456/Frontend-Mentor-Card-Challenge/blob/main/Screenshot_Desktop.png?raw=true)
 --- Desktop Version ---
 
 ### Links
