@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/AbdulHannan123456/Frontend-Mentor-Card-Challenge.git)
-- Live Site URL: [Glitch](https://stats-preview-card-component-solution.glitch.me/)
+- Live Site URL: [Glitch](https://abdulhannan123456.github.io/Frontend-Mentor-Card-Challenge/)
 
 ## My process
 
